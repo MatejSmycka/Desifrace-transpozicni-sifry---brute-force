@@ -1,3 +1,5 @@
 # TransCiDecoder
 Source: https://github.com/hywhuangyuwei/columnar-transposition-cipher-brute-force-decipher
-Its moded for Czech language
+with dictionary moded for Czech language.
+
+Pro bruteforce odhalení transpoziční šifry, za pomocí "frekvenční analýzy slov".
